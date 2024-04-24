@@ -13,3 +13,27 @@
 - echo $PATH
   
 <img src="Assignment_Images/IMage2.jpg">
+
+3) Project Run and Deploy
+- Clone the Git hub repo : git clone url  
+  https://github.com/moqui/moqui-framework
+- Go to terminal and run these commands : 
+ ./gradlew getComponent -Pcomponent=HiveMind
+ ./gradlew build
+ ./gradlew load
+ ./gradlew addRuntime
+ ./gradlew load run 
+- Acess aplication at 
+  http://localhost:8080/
+
+4) Assignment Steps :
+- go to component folder and run commands  :
+
+  mkdir helloworld-component
+  cd helloworld-component/
+  touch component.xml
+  mkdir entity service screen
+  cd entity/
+  touch ExampleEntity.xml
+`HI`
+ 
