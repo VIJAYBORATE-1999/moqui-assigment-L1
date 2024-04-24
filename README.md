@@ -39,7 +39,7 @@
   cd entity/<br>
   touch ExampleEntity.xml<br>
 
-<b>(Note : Rename ExampleEntity to Example As given in assignement Requirements)</b>
+<b>(Note : Rename ExampleEntity to Example As given in assignment Requirements)</b>
 
 - Code for component.xml <br>
 ```
@@ -54,7 +54,7 @@
 ```
 <br>
 
-- Code for Example.xml <br> <b>(Note : Rename ExampleEntity to Example As given in assignement Requirements)</b>
+- Code for Example.xml <br> <b>(Note : Rename ExampleEntity to Example As given in assignment Requirements)</b>
 ```
 
 <?xml version="1.0" encoding="UTF-8"?>
@@ -74,7 +74,7 @@
 
 5)Project structure 
 <img src="Assignment_Images/IMage3.jpg">
-<b>(Note : Rename ExampleEntity to Example As given in assignement Requirements)</b>
+<b>(Note : Rename ExampleEntity to Example As given in assignment Requirements)</b>
 <br>
 6) Project Output 
 Run command to deploy on server - 
