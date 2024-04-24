@@ -48,6 +48,7 @@
 </pre>
 ```
 <br>
+
 - Code for Example.xml <br>
 ```
 <pre>
@@ -64,3 +65,7 @@
 </entities>
 </pre>
  ```
+<br>
+
+-Project structure 
+<img src="Assignment_Images/IMage3.jpg">
