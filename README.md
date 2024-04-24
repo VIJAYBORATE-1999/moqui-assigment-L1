@@ -67,5 +67,15 @@
  ```
 <br>
 
--Project structure 
+5)Project structure 
 <img src="Assignment_Images/IMage3.jpg">
+
+6) Project Output 
+Run command to deploy on server - 
+./gradlew load run
+Acess aplication at  - 
+  http://localhost:8080/ <br>
+Final Require OutPut :
+<img src="Assignment_Images/IMage4.jpg">
+
+
