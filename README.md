@@ -38,20 +38,20 @@
 
 - Code for component.xml <br>
 ```
-  <pre>
+ 
 <?xml version="1.0" encoding="UTF-8"?>
 <component xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://moqui.org/xsd/moqui-conf-3.xsd"
            name="helloworld-component" version="1.5.0">
     <resource-root location="."/>
 
 </component>
-</pre>
+
 ```
 <br>
 
 - Code for Example.xml <br>
 ```
-<pre>
+
 <?xml version="1.0" encoding="UTF-8"?>
 <entities xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
         xsi:noNamespaceSchemaLocation="http://moqui.org/xsd/entity-definition-3.xsd">
@@ -63,7 +63,7 @@
         <field name="exampleQuantity" type="number-integer"/>
     </entity>
 </entities>
-</pre>
+
  ```
 <br>
 
