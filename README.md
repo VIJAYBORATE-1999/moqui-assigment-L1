@@ -37,19 +37,19 @@
   touch ExampleEntity.xml<br>
 
 - Code for component.xml <br>
+```
   <pre>
 <?xml version="1.0" encoding="UTF-8"?>
 <component xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://moqui.org/xsd/moqui-conf-3.xsd"
            name="helloworld-component" version="1.5.0">
-
-    <!-- Specify the location of your component's resources -->
     <resource-root location="."/>
 
 </component>
-<!--VIJAY-->
 </pre>
-
+```
+<br>
 - Code for Example.xml <br>
+```
 <pre>`
 <?xml version="1.0" encoding="UTF-8"?>
 <entities xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
@@ -62,6 +62,5 @@
         <field name="exampleQuantity" type="number-integer"/>
     </entity>
 </entities>
-        <!--VIJAY-->
 </pre>
- 
+ ```
