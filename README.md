@@ -76,6 +76,6 @@ Run command to deploy on server -
 Acess aplication at  - 
   http://localhost:8080/ <br>
 Final Require OutPut :
-<img src="Assignment_Images/IMage4.jpg">
+<img src="Assignment_Images/IMAGE4.jpg">
 
 
