@@ -52,7 +52,7 @@
 ```
 <br>
 
-- Code for Example.xml <br>
+- Code for Example.xml <br>  <b>(Note : Rename ExampleEntity to Example  As given in assignement) </b>
 ```
 
 <?xml version="1.0" encoding="UTF-8"?>
